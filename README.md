@@ -32,8 +32,8 @@ This research employed a binary variable, default payment (Yes = 1, No = 0), as 
    - Ensure that the dataset is formatted correctly and contains all necessary attributes.
 
 2. **Setting up Environment:**
-   - Install PySpark and Databricks on your system.
-   - Set up a Databricks cluster for running PySpark jobs.
+   - Create a databricks community edition account which is free to use with some restrictions.
+   - Set up a Databricks cluster for running PySpark code.
 
 3. **Running the Project:**
    - Use PySpark to load the dataset into a Spark DataFrame.
@@ -41,14 +41,8 @@ This research employed a binary variable, default payment (Yes = 1, No = 0), as 
    - Train machine learning models using MLlib provided by PySpark.
    - Evaluate model performance and tune hyperparameters as necessary.
 
-**Contributors:**
-- [Your Name]
-- [Other Contributors, if any]
 
-**License:**
-[Specify the license under which this project is distributed, e.g., MIT License]
 
 **Acknowledgments:**
 - UCI Machine Learning Repository for providing the dataset.
-- Databricks for the development platform.
-- Apache Spark for the powerful big data processing capabilities.
+- Databricks community edition platform.
